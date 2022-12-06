@@ -1,4 +1,4 @@
-# weather-app-using-vanillajs
+# Weather App using OpenWeatherMap API
 
 This is a weather app built using HTML, CSS, JavaScript. This weather app allows to see weather of any city in the world with the help of OpenWeatherMap API. It displays city name, Country, date, month, year, temperature and weather.
 ## How to run the project
